@@ -69,10 +69,10 @@ ______________________________________
 ║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
 ║❒ *Ytube:* _https://wa.me/message/74F2PC4JA4F3P1_
 ║❒ *Owner:* _https://wa.me/message/74F2PC4JA4F3P1_
-║❒ *Repo:* _https://github.com/ibrahimaitech/IBRAHIM-AI-10.10/tree/main_
-║❒ *WaGroup:* _https://chat.whatsapp.com/L7T4iMvnfwCA8oLkUIRCFj_
-║❒ *WaChannel:* _https://chat.whatsapp.com/L7T4iMvnfwCA8oLkUIRCFj_
-║❒ *Plugins:* _https://github.com/Ibrahimaitech/Ibrahim-bot-md-plugins_
+║❒ *Repo:* _https://github.com/Remitedan/Zakayo-md/tree/main_
+║❒ *WaGroup:* _https://chat.whatsapp.com/IuSfIGLmfNH1nFS0J7gZRI_
+║❒ *WaChannel:* _https://whatsapp.com/channel/0029Vade32BAzNc169CNnI3v_
+║❒ *Plugins:* _https://github.com/Ibrahimaitech/Zakayo-bot-md-plugins_
 ╚══════════════════════╝ 
 _____________________________________
 _Don't Forget To Give a Star To My Repo_`
