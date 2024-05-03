@@ -59,11 +59,11 @@ router.get('/', async (req, res) => {
 				   let session = await Qr_Code_By_Ibrahim_King.sendMessage(Qr_Code_By_Ibrahim_King.user.id, { text: '' + b64data });
 	
 				   let IBRAHIM_TECH_TEXT = `
-*_Qr Code By Ibrahim tech_*
+*_Qr Code By ZAKAYO_*
 *_Made With 🔱_*
 ______________________________________
 ╔════◇
-║ *『 IBRAHIM-TECH OFFICIAL 』*
+║ *『 ZAKAYO-MD Message BOT』*
 ║ _YOU HAVE SUCCESSFULLY SELECTED THE BEST BOT._
 ╚══════════════════════╝
 ╔═════◇
@@ -72,7 +72,7 @@ ______________________________________
 ║❒ *Owner:* _https://wa.me/message/74F2PC4JA4F3P1_
 ║❒ *Repo:* _https://github.com/ibrahimaitech/IBRAHIM-AI-10.10/tree/main_
 ║❒ *WaGroup:* _https://chat.whatsapp.com/L7T4iMvnfwCA8oLkUIRCFj_
-║❒ *WaChannel:* _https://chat.whatsapp.com/L7T4iMvnfwCA8oLkUIRCFj_
+║❒ *WaChannel:* _https://getparingcode-01df97508214.herokuapp.com/_
 ║❒ *Plugins:* _https://github.com/Ibrahimaitech/Ibrahim-bot-md-plugins_
 ╚══════════════════════╝ 
 _____________________________________
