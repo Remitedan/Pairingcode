@@ -1,9 +1,9 @@
 {
-    "name": "IBRAHIM-TECH Pairing",
-    "description": "IBRAHIM-TECH WA bot, Created by France King",
+    "name": "ZAKAYO-MD Pairing",
+    "description": "ZAKAYO WA bot, Created by Tedan",
     "logo": "https://telegra.ph/file/06c29434ea71a8ce855a1.jpg",
-    "repository": "https://github.com/ibrahimaitech/Ibrahim-tech-pair",
-    "keywords": ["IBRAHIMTECH"],
+    "repository": "https://github.com/Remitedan/pairingcode",
+    "keywords": ["ZAKAYO"],
     "success_url": "/", 
     "buildpacks": [{ "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" } ],
     "env": {      
